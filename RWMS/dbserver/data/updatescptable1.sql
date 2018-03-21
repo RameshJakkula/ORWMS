@@ -1,0 +1,1 @@
+update scp set scp_current_val='YY' where scp_name='trace_all_items' and facility_id ='UA';
